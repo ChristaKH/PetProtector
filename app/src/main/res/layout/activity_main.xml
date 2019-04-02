@@ -30,8 +30,8 @@
         android:layout_gravity="center_horizontal"
         android:clickable="true"
         android:contentDescription="@string/photo"
-        android:src="@drawable/none"
-        android:focusable="true" />
+        android:focusable="true"
+        android:src="@drawable/none" />
 
     <Button
         android:id="@+id/addPetButton"
